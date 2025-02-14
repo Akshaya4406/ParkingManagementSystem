@@ -32,7 +32,7 @@ Eclipse/IntelliJ IDE (Optional but recommended)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Akshaya4406/ParkingManagementSystem.git
+git clone https://github.com/AkshayaChaluvadi/ParkingManagementSystem.git
 
 cd ParkingManagementSystem
 
